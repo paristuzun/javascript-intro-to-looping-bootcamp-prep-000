@@ -7,10 +7,10 @@ function forLoop(array) {
     }
 }
 
-function testNum(a) {
+/*function testNum(a) {
   if (a > 0) {
     return "positive";
   } else {
     return "NOT positive";
   }
-}
+}*/
