@@ -10,15 +10,6 @@ function forLoop(array) {
     return array;
 }
 
-/*
-function testNum(a) {
-  if (a > 0) {
-    return "positive";
-  } else {
-    return "NOT positive";
-  }
-}*/
-
 function whileLoop(number) {
 while (number > 0) {
   console.log(--number)
