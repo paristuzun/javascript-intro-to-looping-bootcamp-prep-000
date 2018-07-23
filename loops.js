@@ -6,3 +6,11 @@ function forLoop(array) {
     else { return "I am ${i} strange loops"; }
     }
 }
+
+function testNum(a) {
+  if (a > 0) {
+    return "positive";
+  } else {
+    return "NOT positive";
+  }
+}
