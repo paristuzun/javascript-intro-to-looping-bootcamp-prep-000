@@ -22,6 +22,8 @@ function testNum(a) {
   let number = 50;
 
 function whileLoop(number) {
-
+while (number > 0) {
+  console.log(--number)
+}
 }
 
