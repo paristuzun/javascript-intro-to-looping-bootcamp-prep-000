@@ -19,3 +19,7 @@ function testNum(a) {
   }
 }*/
 
+function whileLoop(number) {
+  
+}
+
