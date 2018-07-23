@@ -19,7 +19,9 @@ function testNum(a) {
   }
 }*/
 
+  let number = 50;
+
 function whileLoop(number) {
-  
+
 }
 
