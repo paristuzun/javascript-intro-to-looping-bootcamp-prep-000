@@ -23,7 +23,7 @@ function doWhileLoop(array) {
 }
  
 do {
-  console.log('doo-bee-doo-bee-doo')
+  array.splice(1)
 } while (maybeTrue());
 return array
 }
